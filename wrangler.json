@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "weather-project-d0d5",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "08d48924-1c66-400e-b976-8b41b85964d4",
+      "database_name": "weather-project-f5db-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
